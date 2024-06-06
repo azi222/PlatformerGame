@@ -1,0 +1,75 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Coins.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "greenportalspritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 286.99999999999994,
+                "y": 145.33333333333331
+            }
+        },
+        "level2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 290.3333333333333,
+                "y": 157.99999999999997
+            }
+        },
+        "level3.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 274.99999999999994,
+                "y": 71.33333333333331
+            }
+        },
+        "nature-paltformer-tileset-16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/User/PycharmProjects/pythonProject/Уроки/Урок 1000-7 платформер/sprites",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "nature-paltformer-tileset-16x16.tsx",
+        "level1.tmx",
+        "Coins.tsx",
+        "level2.tmx",
+        "greenportalspritesheet.tsx",
+        "level3.tmx"
+    ],
+    "project": "безымянный.tiled-project",
+    "recentFiles": [
+        "nature-paltformer-tileset-16x16.tsx",
+        "level1.tmx",
+        "Coins.tsx",
+        "level2.tmx",
+        "greenportalspritesheet.tsx",
+        "level3.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "enemies": [
+    {
+      "name": "Redic",
+      "start_pos": [18, 5],
+      "final_pos": [26, 5]
+    },
+    {
+      "name": "Cheese",
+      "start_pos": [3, 15],
+      "final_pos": [7, 15]
+    }
+  ]
+}
